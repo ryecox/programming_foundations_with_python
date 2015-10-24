@@ -1,2 +1,0 @@
-# programming_foundations_with_python
-For Udacity
